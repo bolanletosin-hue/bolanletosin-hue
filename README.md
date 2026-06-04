@@ -48,9 +48,9 @@ Developed a dashboard to track sales, profit, customer segments, and regional pe
 
 I'm actively seeking opportunities to gain practical experience in data analytics, including:
 
-* Working Student Roles
-* Data Analyst Internships
 * Junior Data Analyst Positions
+* Reporting Analyst
+* supply chain Analyst
 
 📍 Stuttgart, Germany
 
